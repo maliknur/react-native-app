@@ -1,0 +1,17 @@
+{
+  "name": "reactNativeApp",
+  "version": "0.0.1",
+  "private": true,
+  "description": "React Native App starter",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "^0.21.0"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Malik Nur <malik.dba.pro@gmail.com> (https://github.com/maliknur)",
+  "license": "ISC",
+}
